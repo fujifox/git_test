@@ -1,0 +1,1 @@
+this is fujifox's first git project
